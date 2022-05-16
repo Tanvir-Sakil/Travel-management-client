@@ -1,0 +1,7 @@
+.special-spot{
+    background: url("../../../image/1600x1200-12\ \(1\)-min.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 80vh;
+}

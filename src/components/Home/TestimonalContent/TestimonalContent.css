@@ -1,0 +1,27 @@
+.testimonal-body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.carosel-single{
+    background: cyan;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+
+}
+.carousel-wrapper {
+  width: 100%;
+}
+.client-img-div img{
+  background: cyan;
+}
+
+.rec-carousel-item:focus {
+  outline: none;
+  box-shadow: inset 0 0 1px 0px violet;
+}

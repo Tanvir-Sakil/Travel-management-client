@@ -1,0 +1,31 @@
+.counter-h4{
+    font-family: cursive;
+    font-size: 26px;
+    color: rgb(194, 62, 255);
+}
+.counter-digit{
+    font-size: 31px;
+    font-weight: 400;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.counter-icon{
+    font-size: 45px;
+    color: rgb(189, 188, 178);
+}
+@media(max-width: 768px){
+    .counter-h4{
+    font-size: 22px;
+    padding-bottom: 20px;
+    }
+    .counter-digit{
+        font-size: 28px;
+    }
+    .counter-icon{
+        font-size: 40px;
+    }
+}
+@media(max-width: 992px){
+      .counter-h4{
+    padding-bottom: 20px;
+    }
+}

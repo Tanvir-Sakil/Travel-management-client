@@ -1,0 +1,20 @@
+.logo img{
+    height: 400px;
+}
+.logo-font{
+    font-size: 18px;
+    font-weight: 600;
+}
+.logo-font-down{
+    font-size: 12px;
+    font-weight: 600;
+}
+@media (max-width: 768px) { 
+    .navbar-top-padding{
+    padding-top: 15px;
+   }
+   .navbartop-special-centering{
+       display: flex;
+       justify-content: center;
+   }
+ }

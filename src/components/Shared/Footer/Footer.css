@@ -1,0 +1,21 @@
+.footer li > a{
+    color: rgb(169, 166, 154);
+    font-size: 12px;
+    text-decoration: none;
+}
+.footer li > a:hover{
+    color: rgb(255, 255, 255);
+}
+.footer li{
+   list-style: none;
+}
+.footer{
+    height: 100%;
+    padding: 40px 0 40px 0;
+}
+.footer h5{
+    color: darkseagreen;
+}
+/* .footer-main{
+    z-index: 999;
+} */

@@ -1,0 +1,18 @@
+.quote{
+    font-size: 22px;
+    font-weight: 200;
+}
+@media(max-width: 600px){
+    .special-styling{
+  padding: 15px 15px 15px 40px;
+}
+}
+@media(min-width: 600.5px){
+    .special-styling{
+     padding: 45px;
+}
+}
+/* .special-spot-content{
+    padding-top: 70px;
+    padding-bottom: 70px;
+} */

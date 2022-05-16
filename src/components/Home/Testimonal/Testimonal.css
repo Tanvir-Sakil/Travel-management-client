@@ -1,0 +1,10 @@
+@media(max-width: 600px){
+    .testimonal-styling{
+    padding: 0px 5px;
+    }
+}
+@media(min-width: 600.5px){
+    .testimonal-styling{
+    padding: 0px 50px;
+    }
+}

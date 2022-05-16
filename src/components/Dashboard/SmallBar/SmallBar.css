@@ -1,0 +1,27 @@
+.smallbar-menu{
+    list-style: none;
+}
+.smallbar-link{
+    color: rgb(169, 6, 139);
+}
+.smallbar-link:hover{
+    text-decoration: none;
+    color: darkorchid;
+}
+.smallbar-menu li{
+    padding: 7px 0px 7px 12px;
+}
+.smallbar-menu li:hover {
+    background: orange;
+    transition: all 0.8s;
+   
+}
+.logout{
+    padding-top: 270px;
+}
+.smallbar-side-bg{
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    height: 99.99vh;
+}
+
+
